@@ -1,0 +1,26 @@
+{
+  "id": "env-id",
+  "name": "dev",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "https://fakestoreapi.com",
+      "enabled": true
+    },
+    {
+      "key": "expectedProductCount",
+      "value": "20",
+      "enabled": true
+    },
+    {
+      "key": "expectedUsersCount",
+      "value": "10",
+      "enabled": true
+    },
+    {
+      "key": "Cart7Prdt18Qty",
+      "value": "1",
+      "enabled": true
+    }
+  ]
+}
