@@ -1,5 +1,11 @@
 {
-  "dependencies": {
+  "name": "estore-api-testing",
+  "version": "1.0.0",
+  "description": "FakeStore API test suite — Newman + htmlextra",
+  "scripts": {
+    "test": "newman run ./ESTORE_API_Testing.postman_collection.json -e ./environment.json -r cli,htmlextra --reporter-htmlextra-export newman-report/index.html"
+  },
+  "devDependencies": {
     "newman": "^6.2.2",
     "newman-reporter-htmlextra": "^1.23.1"
   }
