@@ -1,4 +1,4 @@
-# FakeStore API — Test Suite
+# eStore API — Test Suite
 
 ## Newman Tests
 
