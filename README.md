@@ -5,8 +5,8 @@
 A professional REST API test suite for [FakeStore API](https://fakestoreapi.com) — an e-commerce backend simulation covering Products, Users, Authentication, and Carts. Built with **Postman** and **Newman**, with automated CI execution and live HTML reporting via GitHub Pages.
 
 > 📄 **[Published API Documentation](https://documenter.getpostman.com/view/5814369/2sBXwqsrFL)** — Interactive request docs with examples  
-> 📊 **[Live Test Report](https://<YOUR_USERNAME>.github.io/estore-api-testing/)** — Latest Newman htmlextra report  
-> ⚙️ **[CI Pipeline](https://github.com/<YOUR_USERNAME>/estore-api-testing/actions)** — GitHub Actions workflow
+> 📊 **[Live Test Report](https://hussainimd.github.io/eStore-API-Testing/)** — Latest Newman htmlextra report  
+> ⚙️ **[CI Pipeline](https://github.com/HussainiMD/eStore-API-Testing/actions)** — GitHub Actions workflow
 
 ---
 
